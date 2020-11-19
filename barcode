@@ -1,0 +1,8 @@
+\inventor{Theunis Gysbert Dirkse-van Schalkwyk}
+
+\documentclass[english]{uspatent}
+\begin{document}
+\setAssigneeName{Assignee Name: Stellenbosch University}
+\setAssigneeAddress{Assignee Address: Private Bag X1}
+\setAssigneeCity{Matieland, 7602, South Africa}
+\setAssigneePhone{Assignee Phone: +27 21 808 9111}
